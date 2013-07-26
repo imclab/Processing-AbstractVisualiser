@@ -1,7 +1,9 @@
+int a = 5;
+
 void setup() {
-  print("Hello World");
+  
 }
 
 void draw() {
-  
+  print(a);
 }
