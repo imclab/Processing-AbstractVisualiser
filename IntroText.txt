@@ -1,0 +1,46 @@
+Learn How To Code and Make a Visualiser in Processing
+with James :D
+
+-General
+--Learn how to code
+--Learn how to use an IDE
+--Learn how to make a visualiser
+
+-Specifically
+--Processing (Based off Java)
+--Processing IDE
+--Abstract Visualiser
+
+-Youtube
+--Watch at your own pace
+--Amateur Quality
+--Good Content
+
+-GitHub
+--Check Out the Current Code
+--Check Out the Code per Episode
+--Share the Source Code
+--Share the Binary
+
+-Open-Source Liscence (Copyleft)
+--Share it with the world
+--You can use the code yourself, no problem
+--Just make sure to follow the rules
+
+-Git
+--Complex To Use, Many Alternatives
+---Git Bash
+---Cmd Path
+
+---GitHub For Windows
+---SmartGit
+
+-Websites
+--http://processing.org/
+--http://www.youtube.com/jamesusespivot
+--https://github.com/
+--https://github.com/LyokoJames/Flash-TopDownShooter
+--http://www.gnu.org/licenses/
+--http://git-scm.com/downloads
+--http://windows.github.com/
+--http://www.syntevo.com/smartgithg/
