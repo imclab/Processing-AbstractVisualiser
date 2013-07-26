@@ -1,7 +1,8 @@
 Processing-SudokuSolver
 =======================
 
-//Insert Project Specific README here
+##Insert Project Specific README here <--
+##Generic README below \\/
 
 People can also use the code themselves in accordance with the included gpl and lgpl liscences.
 
