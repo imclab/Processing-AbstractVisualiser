@@ -1,8 +1,8 @@
-Insert Project Title Here
+Processing-AbstractVisualiser
 =======================
 
-##Insert Project Specific README here <--
-##Generic README below \\/
+An Abstract Visualiser Made in Processing to teach people basic coding as well as some intermediate coding.
+This Repository follows along my tutorial on YouTube (http://www.youtube.com/user/jamesusespivot) and let's people see and use my code. 
 
 People can also use the code themselves in accordance with the included gpl and lgpl liscences.
 
