@@ -1,9 +1,6 @@
-int a = 5;
-
 void setup() {
-  
+  print("5" + (8+5));
 }
 
 void draw() {
-  print(a);
 }
