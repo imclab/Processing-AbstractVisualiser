@@ -1,6 +1,14 @@
 void setup() {
-  print("5" + (8+5));
+  int a = 5;
+  if (!(a == 5)) {
+    print("True");
+  }
+  else {
+    print("False");
+  }
+  
 }
 
 void draw() {
+  
 }
